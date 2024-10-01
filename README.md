@@ -27,9 +27,7 @@ I'm excited to use this GitHub account to track my studies, projects, and intere
 - 📫 How to reach me:
   - You can connect with me via [GitHub](https://github.com/pp3ng) or follow my work on my [personal website](https://pp3ng.github.io/).
 
-- 😄 Pronouns: He/Him
-
-- ⚡ Fun fact: I enjoy exploring the powerful capabilities of Linux, from system configuration to shell scripting!
+ I enjoy exploring the powerful capabilities of Linux, from system configuration to shell scripting!
 
 Feel free to check out my repositories and follow my journey in Computer Science and Engineering!
 
