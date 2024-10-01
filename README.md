@@ -9,7 +9,7 @@ I'm excited to use this GitHub account to track my studies, projects, and intere
   - My personal website to showcase my thoughts and photography.
 
 - 🌱 I’m currently learning:
-  - Advanced topics in system programming and tools related to Linux.
+  - Advanced topics in system programming and networking.
   - Techniques for optimizing and managing Linux environments.
 
 - 👯 I’m looking to collaborate on:
