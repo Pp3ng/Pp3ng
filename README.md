@@ -6,30 +6,30 @@ I'm excited to use this GitHub account to track my studies, projects, and intere
 
 - 🔭 I’m currently working on:
   - Various programming projects to deepen my understanding of algorithms and data structures.
-  - My personal website to showcase my thoughts, photography, and technical explorations.
+  - My personal website to showcase my thoughts and photography.
 
 - 🌱 I’m currently learning:
-  - Advanced topics in system programming and tools like Vim.
-  - JavaScript animations and effects for enhancing user interfaces on my website.
+  - Advanced topics in system programming and tools related to Linux.
+  - Techniques for optimizing and managing Linux environments.
 
 - 👯 I’m looking to collaborate on:
-  - Open-source projects related to Linux system programming.
-  - Web development projects that focus on creating dynamic and engaging user experiences.
+  - Open-source projects focused on Linux system programming and tools.
+  - Projects that explore command-line interfaces and scripting.
 
 - 🤔 I’m looking for help with:
   - Understanding more about MapReduce and its applications in big data processing.
-  - Improving my skills in JavaScript and CSS for web design.
+  - Enhancing my skills in system administration on Linux.
 
 - 💬 Ask me about:
-  - My favorite programming languages and why I love them.
-  - Photography tips and tricks, especially related to capturing landscapes.
+  - My favorite Linux distributions and why I love them.
+  - Tips and tricks for effective command-line usage.
 
 - 📫 How to reach me:
   - You can connect with me via [GitHub](https://github.com/pp3ng) or follow my work on my [personal website](https://pp3ng.github.io/).
 
 - 😄 Pronouns: He/Him
 
-- ⚡ Fun fact: I enjoy exploring the intersection of technology and creativity, whether it's through coding, photography, or design!
+- ⚡ Fun fact: I enjoy exploring the powerful capabilities of Linux, from system configuration to shell scripting!
 
 Feel free to check out my repositories and follow my journey in Computer Science!
 
