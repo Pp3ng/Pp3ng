@@ -31,5 +31,5 @@ I'm excited to use this GitHub account to track my studies, projects, and intere
 
 - ⚡ Fun fact: I enjoy exploring the powerful capabilities of Linux, from system configuration to shell scripting!
 
-Feel free to check out my repositories and follow my journey in Computer Science!
+Feel free to check out my repositories and follow my journey in Computer Science and Engineering!
 
