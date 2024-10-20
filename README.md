@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm LUOPENG ZHOU (周罗鹏)
+# 👋 Hi there! I'm LUOPENG ZHOU
 
 ## 🌱 I am currently studying Computer Science and Engineering as an undergraduate. 
 
