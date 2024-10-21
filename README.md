@@ -26,7 +26,7 @@ I'm excited to use this GitHub account to track my studies, projects, and intere
 
 - 💬 Ask me about:
 
-  - My favorite Operating system and why I love them.
+  - My favorite Operating systems/Programming languages/CLI tools and why I love them.
   - Tips and tricks for effective command-line usage.
 
 - 📫 How to reach me:
