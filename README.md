@@ -9,7 +9,7 @@
 
 🎓 Currently studying **Computer Science and Engineering**
 
-💻 Focusing on **System Programming** and **Linux Development**
+💻 Focusing on **System Programming** and **UNIX Development**
 
 🌟 Passionate about **Open Source** and **Command Line Tools**
 
@@ -28,17 +28,17 @@ class LuopengZhou:
         self.name = 'Luopeng Zhou'
         self.education = {
             'studying': 'Computer Science & Engineering',
-            'focusing': ['System Programming', 'Linux Development']
+            'focusing': ['System Programming', 'UNIX Development']
         }
         self.interests = [
             'Operating Systems', 'Low-level Programming',
             'Open Source', 'System Architecture'
         ]
         self.daily_languages = ['C/C++', 'Python', 'Shell']
-        self.os = 'Arch Linux BTW 🐧'
+        self.os = ['FreeBSD', 'Arch Linux'] # I use both BTW 🐧 🐡
         
     def say_hi(self):
-        print('Thanks for visiting my GitHub! Let\'s code something amazing together!')
+        print('Thanks for visiting my GitHub! Let's code something amazing together!')
 
 me = LuopengZhou()
 me.say_hi()
@@ -53,22 +53,25 @@ me.say_hi()
 - **Algorithm & Data Structure Projects**
     - Optimizing solutions for complex problems
     - Implementing efficient data structures
-- **System Programming**
-    - Linux kernel module development
-    - Low-level system optimization
-- **Cloud Computing**
-    - Distributed systems architecture
-    - Container orchestration with Docker & K8s
+- **UNIX Environment**
+    - FreeBSD and Linux system programming
+    - Vim, tmux, Fish Shell customization
+    - Low-level optimization
+    - System networking programming
+- **Database Systems**
+    - Database engine optimization
+    - Query processing & execution
 
 #### 🌱 Learning:
 
 - Advanced **System Programming** & **Networking**
-- **Linux Environment** Optimization
-    - Vim, tmux, Fish Shell customization
 - **Machine Learning** Fundamentals
-- Big Data Processing Techniques
+- **Cloud Computing**
+    - Distributed systems architecture
+    - Container orchestration with Docker & K8s
+- **Big Data Processing Techniques**
 
----
+ ---
 
 ### 💻 Tech Stack
 
@@ -84,6 +87,7 @@ me.say_hi()
 #### Environment & DevOps:
 
 <p align="center">
+<a href="https://en.wikipedia.org/wiki/FreeBSD" target="_blank"><img src="https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white" alt="FreeBSD"/></a>
 <a href="https://en.wikipedia.org/wiki/Linux" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/></a>
 <a href="https://en.wikipedia.org/wiki/Docker_(software)" target="_blank"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
 <a href="https://en.wikipedia.org/wiki/Git" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
@@ -93,7 +97,7 @@ me.say_hi()
 #### Development Environment:
 
 ```text
-🖥️ OS: Unix-based OS
+🖥️ OS: FreeBSD & Linux
 📝 Editor: Vim
 🐚 Shell: Fish Shell
 🔧 Tools: tmux, btop
@@ -131,7 +135,7 @@ me.say_hi()
 
 ### ⚡ Fun Facts
 
-- 🐧 I'm a huge fan of Linux and open-source software
+- 🐧 I'm a huge fan of UNIX and open-source software
 - 🖥️ I spend countless hours customizing my development environment
 - 📚 Always reading about new technologies and system internals
 - 🎮 I enjoy retro gaming and pixel art
@@ -172,12 +176,3 @@ me.say_hi()
 <h4>🎉 Random dev joke for you:</h4>
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
 </div>
-
-
-<!--
-Credits:
-- Gif Source: https://gist.github.com/patevs/
-- Stats Cards: https://github.com/anuraghazra/github-readme-stats
-- Typing Effect: https://readme-typing-svg.demolab.com
-- Dev Jokes: https://github.com/ABSphreak/readme-jokes
--->
