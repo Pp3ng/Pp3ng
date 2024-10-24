@@ -35,7 +35,7 @@ class LuopengZhou:
             'Open Source', 'System Architecture'
         ]
         self.daily_languages = ['C/C++', 'Python', 'Shell']
-        self.os = ['FreeBSD', 'Arch Linux'] # Both are my playgrounds.BTW! 😁
+        self.os = ['FreeBSD', 'Arch Linux'] # Both are my playgrounds.BTW!😁
         
     def say_hi(self):
         print('Thanks for visiting my GitHub! Let's code something amazing together!')
@@ -57,7 +57,6 @@ me.say_hi()
     - System programming on FreeBSD and Linux
     - Customizing tools like Vim, tmux, and Fish Shell
 - **Database Systems**
-    - Database engine optimization
     - Query processing & execution
 
 #### 🌱 Learning:
