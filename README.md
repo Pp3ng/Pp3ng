@@ -94,20 +94,6 @@ me.say_hi()
 
 ---
 
-### 🌟 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/Pp3ng/Mandelbrot-Set">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pp3ng&repo=Mandelbrot-Set&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Pp3ng/network_chat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pp3ng&repo=network_chat&theme=tokyonight" />
-  </a>
-</div>
-
-
----
-
 ### 🤝 Collaboration & Help
 
 - 👯 **Open to collaborate on:**
