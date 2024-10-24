@@ -48,25 +48,33 @@ me.say_hi()
 
 ![Programming GIF](https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif)
 
-#### 🔭 Working on:
+### 🔭 Working on & Learning:
 
-- **Algorithm & Data Structure Projects**
-    - Exploring efficient algorithms
-    - Implementing practical data structures
-- **UNIX Environment**
-    - System programming on FreeBSD and Linux
-    - Customizing tools like Vim, tmux, and Fish Shell
-- **Database Systems**
-    - Query processing & execution
+- **Data Structures & Algorithms**
+  - Implementing common data structures like linked lists and binary trees while solving algorithm problems on LeetCode and HackerRank. Analyzing time and space complexity to optimize solutions.
 
-#### 🌱 Learning:
+- **Web Development**
+  - Building responsive websites using HTML, CSS, and JavaScript, while diving into React for frontend development and exploring Node.js for backend capabilities. 
 
-- Advanced **System Programming** & **Networking**
-- **Machine Learning** Fundamentals
-- **Cloud Computing**
-    - Distributed systems architecture
-    - Container orchestration with Docker & K8s
-- **Big Data Processing Techniques**
+- **Database Management**
+  - Practicing SQL queries and database design alongside learning about indexing and query optimization, with a peek into NoSQL databases like MongoDB.
+
+- **Programming Languages**
+  - Deepening my Python and JavaScript skills, while getting an introduction to Java’s object-oriented principles and exploring Go for its concurrency features.
+
+- **Computer Networks**
+  - Understanding TCP/IP protocols and RESTful API design, along with the basics of network security and encryption.
+
+- **Version Control & Collaboration**
+  - Mastering Git and GitHub workflows, and getting familiar with continuous integration and deployment (CI/CD) practices.
+
+- **Operating Systems**
+  - Exploring essential OS concepts such as processes, threads, and memory management, plus diving into the Linux command line and shell scripting.
+
+- **Cloud Computing Basics**
+  - Gaining an introduction to AWS or Azure services and understanding various cloud deployment models. 
+
+This blend of practical work and learning keeps things dynamic and engaging, fueling my growth in tech!
 
  ---
 
