@@ -68,6 +68,8 @@ Cloud Computing: Exploring AWS, Azure, cloud storage, and serverless models.
 Mobile Development: Experimenting with React Native for cross-platform apps, focusing on UI/UX.
 
 Machine Learning: Learning basics with Python (scikit-learn, TensorFlow) through practical projects.
+
+
  ---
 
 ### 💻 Tech Stack
