@@ -49,52 +49,25 @@ me.say_hi()
 ![Programming GIF](https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif)
 
 ### 🔭 Working on & Learning:
+Data Structures & Algorithms: Implementing structures like linked lists and binary trees while solving challenges on LeetCode/HackerRank, focusing on optimization.
 
-- **Data Structures & Algorithms**
-    - Implementing data structures like linked lists and binary trees while tackling algorithm challenges on platforms
-      like LeetCode and HackerRank. Focusing on optimizing solutions through time and space complexity analysis.
+Web Development: Building responsive websites with HTML, CSS, JavaScript; exploring React for UI and Node.js for backend (REST APIs).
 
-- **Web Development**
-    - Building responsive websites using HTML, CSS, and JavaScript. Currently diving into React for dynamic user
-      interfaces and exploring Node.js for backend development, including RESTful APIs.
+Database Management: Practicing SQL and NoSQL (MongoDB), learning indexing and query optimization.
 
-- **Database Management**
-    - Practicing SQL queries and database design principles, learning about indexing and query optimization techniques,
-      and exploring NoSQL databases like MongoDB.
+Programming Languages: Strengthening skills in C/C++ and Python; exploring Go's concurrency features.
 
-- **Programming Languages**
-    - Deepening expertise in C/C++ and Python, working on projects that involve data analysis and web scraping. Also
-      exploring Go for its concurrency capabilities.
+UNIX & Operating Systems: Deep diving into UNIX system programming (FreeBSD/Arch Linux), contributing to open-source projects.
 
-- **UNIX & Operating Systems**
-    - Passionate about UNIX development and system programming! Exploring core OS concepts like process and memory
-      management, and honing skills in shell scripting and command-line proficiency. FreeBSD and Arch Linux are my
-      favorite playgrounds, where I enjoy diving deep into system architecture and contributing to open source projects.
-      😁
+Computer Networks: Understanding TCP/IP, network configuration, designing REST APIs, learning network security basics.
 
-- **Computer Networks**
-    - Understanding TCP/IP protocols, designing RESTful APIs, and learning about network security basics, including
-      encryption methods.
+Version Control: Mastering Git, GitHub workflows, and CI/CD with GitHub Actions.
 
-- **Version Control & Collaboration**
-    - Mastering Git for version control, exploring advanced GitHub workflows, and implementing CI/CD practices using
-      tools like GitHub Actions.
+Cloud Computing: Exploring AWS, Azure, cloud storage, and serverless models.
 
-- **Cloud Computing Basics**
-    - Learning about AWS and Azure services, including cloud storage and serverless computing, while understanding
-      different cloud deployment models.
+Mobile Development: Experimenting with React Native for cross-platform apps, focusing on UI/UX.
 
-- **Mobile App Development**
-    - Experimenting with React Native to build cross-platform mobile applications, focusing on mobile UI/UX design and
-      integrating APIs.
-
-- **Machine Learning Fundamentals**
-    - Introducing myself to machine learning concepts using Python libraries like scikit-learn and TensorFlow, working
-      on projects that apply various algorithms.
-
-My journey is driven by a deep love for UNIX and open source, continually fueling my passion for technology and
-innovation!
-
+Machine Learning: Learning basics with Python (scikit-learn, TensorFlow) through practical projects.
  ---
 
 ### 💻 Tech Stack
