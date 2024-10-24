@@ -127,6 +127,8 @@ me.say_hi()
   <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=pp3ng&theme=tokyonight" alt="pp3ng" />
 </div>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ---
 
 ### 📫 Connect with Me
