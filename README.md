@@ -13,7 +13,7 @@
 
 🌟 Passionate about **Open Source** and **Command Line Tools**
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6495ED&center=true&vCenter=true&width=435&lines=Welcome+to+my+coding+universe!;System+Programming+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6495ED&center=true&vCenter=true&width=435&lines=Welcome+to+my+coding+universe!;System+Programming+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 
 </div>
 
@@ -35,7 +35,7 @@ class LuopengZhou:
             'Open Source', 'System Architecture'
         ]
         self.daily_languages = ['C/C++', 'Python', 'Shell']
-        self.os = ['FreeBSD', 'Arch Linux'] # I use both BTW 🐧 🐡
+        self.os = ['FreeBSD', 'Arch Linux'] # I use both BTW 😁
         
     def say_hi(self):
         print('Thanks for visiting my GitHub! Let's code something amazing together!')
@@ -94,15 +94,6 @@ me.say_hi()
 <a href="https://en.wikipedia.org/wiki/Vim_(text_editor)" target="_blank"><img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim"/></a>
 </p>
 
-#### Development Environment:
-
-```text
-🖥️ OS: FreeBSD & Linux
-📝 Editor: Vim
-🐚 Shell: Fish Shell
-🔧 Tools: tmux, btop
-```
-
 ---
 
 ### 🌟 Featured Projects
@@ -135,7 +126,6 @@ me.say_hi()
 
 ### ⚡ Fun Facts
 
-- 🐧 I'm a huge fan of UNIX and open-source software
 - 🖥️ I spend countless hours customizing my development environment
 - 📚 Always reading about new technologies and system internals
 - 🎮 I enjoy retro gaming and pixel art
