@@ -18,8 +18,10 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=&theme=nord&border=true" alt="Random Dev Quote"/>
 </div>
+
 <div align = "center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6495ED&center=true&vCenter=true&width=435&lines=Welcome+to+my+coding+universe!;System+Programming+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6495ED&center=true&vCenter=true&width=435&lines=Welcome+to+my+coding+universe!;System+Programming+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+
 </div>
 
 ---
@@ -67,7 +69,6 @@ int main(void) {
 - **Network Programming**: Building scalable network applications and services
 - **Open Source Contributions**: Actively contributing to UNIX-related open-source projects
 - **Personal Projects**: Building CLI utilities and system tools for daily use
-- **Reading**: Exploring new technologies and system design patterns
 
 ---
 
@@ -85,7 +86,7 @@ int main(void) {
 <a href="https://www.rust-lang.org/" target="_blank"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/></a>
 </p>
 
-### 🖥️ Operating Systems & Tools
+### 🛠️ Operating Systems & Tools
 
 <p align ="center">
 <a href="https://www.freebsd.org/" target="_blank"><img src="https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white" alt="FreeBSD"/></a>
@@ -107,7 +108,7 @@ int main(void) {
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
 </p>
 
-### 🖥 Hardwares
+### 🔌 Hardwares
 
 <p align="center">
 <a href="https://www.raspberrypi.org/" target="_blank"><img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"/></a>
@@ -182,6 +183,15 @@ int main(void) {
     <img src="https://github-profile-trophy.vercel.app/?username=pp3ng&theme=vue&column=4&margin-w=15&margin-h=15" alt="pp3ng" />
   </a>
 </p>
+
+---
+
+### 🎵 Currently Vibing To
+
+<div align ="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xzhprryykgscfigdpz47ci7plm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile" />
+
+ </div>
 
 ---
 
