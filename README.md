@@ -3,6 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pp3ng&label=Profile%20views&color=0e75b6&style=flat" alt="pp3ng" />
+<a href="https://wakatime.com/@018b0b2d-ab3f-4d4d-941c-c52b8275e363"><img src="https://wakatime.com/badge/user/018b0b2d-ab3f-4d4d-941c-c52b8275e363.svg" alt="Total time coded since Oct 8 2023" /></a>
 </p>
 
 <div align="center">
@@ -113,10 +114,9 @@ me.say_hi()
 
 ---
 
-### 📊 Weekly Development
+### 📊 Wakatime Statistics
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+[![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Pp3nG&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📈 GitHub Statistics
 
