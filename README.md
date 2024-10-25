@@ -64,11 +64,11 @@ me.say_hi()
 #### 🛠️ Programming Languages
 
 <p align="center">
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/></a>
-<a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/></a>
+<a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/></a>
+<a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/></a>
 <a href="https://developer.nvidia.com/cuda-zone" target="_blank"><img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA"/></a>
-<a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
-<a href="https://en.wikipedia.org/wiki/Shell_script" target="_blank"><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell"/></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell"/></a>
 <a href="https://golang.org/" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/></a>
 <a href="https://www.rust-lang.org/" target="_blank"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/></a>
 </p>
@@ -76,14 +76,13 @@ me.say_hi()
 #### 🖥️ Operating Systems & Tools
 
 <p align ="center">
-<a href="https://en.wikipedia.org/wiki/FreeBSD" target="_blank"><img src="https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white" alt="FreeBSD"/></a>
-<a href="https://en.wikipedia.org/wiki/Linux" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/></a>
+<a href="https://www.freebsd.org/" target="_blank"><img src="https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white" alt="FreeBSD"/></a>
+<a href="https://www.kernel.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/></a>
 <a href="https://www.apple.com/macos/" target="_blank"><img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS"/></a>
-<a href="https://en.wikipedia.org/wiki/Docker_(software)" target="_blank"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
-<a href="https://en.wikipedia.org/wiki/Git" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
-<a href="https://en.wikipedia.org/wiki/Vim_(text_editor)" target="_blank"><img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim"/></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
+<a href="https://www.vim.org/" target="_blank"><img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim"/></a>
 <a href="https://github.com/tmux/tmux" target="_blank"><img src="https://img.shields.io/badge/tmux-1BB91D?style=for-the-badge&logo=tmux&logoColor=white" alt="tmux"/></a>
-<a href="https://kubernetes.io/" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/></a>
 </p>
 
 ---
@@ -111,6 +110,13 @@ me.say_hi()
 - 🎮 Retro gaming and pixel art lover
 - 🌱 Constant learner and knowledge sharer
 - 🙆‍♂️ 100+ WPM typer using Vim keybindings!
+
+---
+
+### 📊 Weekly Development
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### 📈 GitHub Statistics
 
