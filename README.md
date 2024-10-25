@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hello World! I'm LUOPENG ZHOU</h1>
-<h3 align="center">Passionate Computer Science & Engineering Undergraduate | System Programming Enthusiast</h3>
+<h1 align="center">👋 Hello World! I'm Pp3ng</h1>
+<h3 align="center">Passionate Computer Science & Engineering Undergraduate</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pp3ng&label=Profile%20views&color=0e75b6&style=flat" alt="pp3ng" />
@@ -12,8 +12,9 @@
 
 💻 Focusing on **System Programming** and **UNIX Development**
 
-🌟 Passionate about **Open Source** and **Command Line Tools**
+🌟 Passionate about **Open Source** and **Command Line**
 
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&border=true" alt="Random Dev Quote"/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6495ED&center=true&vCenter=true&width=435&lines=Welcome+to+my+coding+universe!;System+Programming+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 
 </div>
@@ -114,26 +115,28 @@ me.say_hi()
 
 ---
 
-### 📊 Wakatime Statistics
+### 📊 WakaTime Statistics
 
-[![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Pp3nG&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Pp3nG&layout=compact&theme=vue&langs_count=10&hide=other,text" alt="My's WakaTime stats"/>
+</p>
 
 ### 📈 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pp3ng&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pp3ng&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pp3ng&show_icons=true&theme=vue&include_all_commits=true&count_private=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pp3ng&layout=compact&langs_count=8&theme=vue&text_bold=true"/>
 </div>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=pp3ng&theme=dracula" alt="pp3ng" />
+  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=pp3ng&theme=vue" alt="pp3ng" />
 </div>
 
 ### 🏆 GitHub Trophies
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=pp3ng&theme=dracula&column=4&margin-w=15&margin-h=15" alt="pp3ng" />
+    <img src="https://github-profile-trophy.vercel.app/?username=pp3ng&theme=vue&column=4&margin-w=15&margin-h=15" alt="pp3ng" />
   </a>
 </p>
 
@@ -152,10 +155,9 @@ me.say_hi()
 </p>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Dev Quote"/>
 
 <h4>🎉 Random dev joke for you:</h4>
-<img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Jokes Card" />
+<img src="https://readme-jokes.vercel.app/api?theme=vue" alt="Jokes Card" />
 </div>
 
 ---
