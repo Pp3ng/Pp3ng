@@ -14,7 +14,9 @@
 
 🌟 Passionate about **Open Source** and **Command Line**
 
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&border=true" alt="Random Dev Quote"/>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=&theme=nord&border=true" alt="Random Dev Quote"/>
+  </div>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6495ED&center=true&vCenter=true&width=435&lines=Welcome+to+my+coding+universe!;System+Programming+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 
 </div>
