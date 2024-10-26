@@ -72,7 +72,7 @@ int main(void) {
 
 ---
 
-## 💻 Things i coding with
+## 💻 Things I code with
 
 ### ️📟 Programming Languages
 
