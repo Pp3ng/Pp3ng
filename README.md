@@ -4,7 +4,7 @@
 
 <div align="center">
 <p align="center">
-    <a href="https://github.com/BEPb/BEPb"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/Pp3ng"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
   <img src="https://komarev.com/ghpvc/?username=pp3ng&label=Profile%20views&color=0e75b6&style=flat" alt="pp3ng" />
 <a href="https://wakatime.com/@018b0b2d-ab3f-4d4d-941c-c52b8275e363"><img src="https://wakatime.com/badge/user/018b0b2d-ab3f-4d4d-941c-c52b8275e363.svg" alt="Total time coded since Oct 8 2023" /></a>
 </p>
