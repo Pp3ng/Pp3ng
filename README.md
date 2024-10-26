@@ -1,13 +1,8 @@
-<h1 align="center">👋 Hello World! I'm Pp3ng 😁</h1>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=👋HELLO%20WORLD&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20'm%20Pp3ng😁!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+</p>
 
 <div align="center">
-
-🎓 Currently studying **Computer Science & Engineering**
-
-💻 Focusing on **Programming** and **UNIX Development**
-
-🌟 Passionate about **Technologies** and **System Architecture**
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pp3ng&label=Profile%20views&color=0e75b6&style=flat" alt="pp3ng" />
 <a href="https://wakatime.com/@018b0b2d-ab3f-4d4d-941c-c52b8275e363"><img src="https://wakatime.com/badge/user/018b0b2d-ab3f-4d4d-941c-c52b8275e363.svg" alt="Total time coded since Oct 8 2023" /></a>
@@ -130,21 +125,6 @@ int main(void) {
 
 ---
 
-## 🤝 Collaboration & Help
-
-- 👯 **Open to collaborate on:**
-
-  - Open-source system tools & CLI utilities
-  - High-performance computing projects
-  - UNIX-based system development
-
-- 🤔 **Looking for help with:**
-  - Advanced concurrency patterns in systems programming
-  - Complex database management and optimization
-  - Morden web development frameworks and tools
-
----
-
 ## ⚡ Fun Facts
 
 - 🖥️ Customization enthusiast for development environments
@@ -173,7 +153,8 @@ int main(void) {
 <div align="center">
   <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=pp3ng&theme=vue" alt="pp3ng" />
 </div>
- 
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Pp3ng&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+
 ---
 
 ## 🏆 GitHub Trophies
