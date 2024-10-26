@@ -72,7 +72,7 @@ int main(void) {
 
 ---
 
-## 💻 Tech Stack
+## 💻 Things i coding with
 
 ### ️📟 Programming Languages
 
