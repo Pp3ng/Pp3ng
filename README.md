@@ -43,7 +43,7 @@ public:
   }
 };
 
-int main(void) {
+auto main(void) -> int {
   std::unique_ptr<Me> me = std::make_unique<Me>();
   me->say_hi();
   return EXIT_SUCCESS;
