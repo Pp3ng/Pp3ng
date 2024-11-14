@@ -21,7 +21,6 @@
 
 <div align = "center">
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6495ED&center=true&vCenter=true&width=435&lines=Welcome+to+my+coding+universe!;System+Programming+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
-
 </div>
 
 ---
@@ -50,9 +49,6 @@ auto main(void) -> int {
   return EXIT_SUCCESS;
 }
 ```
-
-<img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="Programming GIF" style="width: 50%; max-width: 400px; margin-top: 20px;">
-
 
 ---
 
@@ -89,6 +85,11 @@ auto main(void) -> int {
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pp3ng&repo=webCpp&theme=vue" alt="webCpp Repository" />
   </a>
 </div>
+
+<div align = "center">
+<img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="Programming GIF" style="width: 50%; max-width: 400px; margin-top: 20px;">
+</div>
+
 
 ---
 
