@@ -9,6 +9,10 @@
 <a href="https://wakatime.com/@018b0b2d-ab3f-4d4d-941c-c52b8275e363"><img src="https://wakatime.com/badge/user/018b0b2d-ab3f-4d4d-941c-c52b8275e363.svg" alt="Total time coded since Oct 8 2023" /></a>
 </p>
 
+  <a href="https://github.com/Pp3ng?tab=followers">
+    <img src="https://img.shields.io/github/followers/Pp3ng?label=Followers&style=social" alt="GitHub followers">
+  </a>
+  <img src="https://img.shields.io/github/stars/Pp3ng?label=Stars&style=social" alt="GitHub User's stars">
 </div>
 
 <div align="center">
@@ -29,17 +33,14 @@ class Me {
 public:
   std::string username = "pp3ng";
   std::string name = "Luopeng Zhou";
-  std::map<std::string, std::string> education = {
-      {"studying", "Computer Science & Engineering"},
+  std::map<std::string, std::string> introduction = {
+      {"learning", "Computer Science & Engineering"},
       {"focusing", "System Programming, UNIX Development"}};
-  std::vector<std::string> interests = {"Billiards", "Photography",
-                                        "UNIX-based Systems", "Open Source"};
-  std::vector<std::string> daily_languages = {"C/C++", "Rust", "Shell"};
-  std::vector<std::string> os = {"FreeBSD", "Arch Linux"}; // I love both! 😄
-
+  std::vector<std::string> interests = {"Billiards", "Photography"};
+  
   void say_hi() {
-    std::cout << "Thanks for visiting my GitHub!
-        Let's code something amazing together!" << std::endl;
+    std::cout << "Thanks for visiting my GitHub!"
+        "Let's code something amazing together!" << std::endl;
   }
 };
 
@@ -147,7 +148,11 @@ auto main(void) -> int {
 
 ---
 
-## 📫 How to reach me
+## 🤝 Let's Connect and Collaborate!
+
+I'm always open to interesting conversations and collaboration opportunities. Whether you want to discuss a project,
+share ideas, or just chat about technology, feel free to reach out!
+
 
 <div align="center">
   <a href="https://x.com/Pp3ng_" target="_blank" style="margin: 0 10px;">
@@ -160,7 +165,6 @@ auto main(void) -> int {
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gray&section=footer&reversal=false&textBg=false">
 </p>
