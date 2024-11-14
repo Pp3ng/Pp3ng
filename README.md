@@ -86,11 +86,6 @@ auto main(void) -> int {
   </a>
 </div>
 
-<div align = "center">
-<img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="Programming GIF" style="width: 50%; max-width: 400px; margin-top: 20px;">
-</div>
-
-
 ---
 
 ## ⚡ Fun Facts
@@ -108,6 +103,13 @@ auto main(void) -> int {
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Pp3nG&layout=compact&theme=vue&langs_count=10&hide=other,text" alt="My's WakaTime stats"/>
 </p>
+
+
+<p align = "center">
+<img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="Programming GIF" style="width: 50%; max-width: 400px; margin-top: 20px;">
+</p>
+
+
 
 ---
 
