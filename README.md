@@ -28,25 +28,26 @@
 ## 🎯 Quick Overview
 
 ```cpp
-class Me {
+class Me final {
 public:
-  std::string username = "pp3ng";
-  std::string name = "Luopeng Zhou";
-  std::map<std::string, std::string> introduction = {
-      {"learning", "Computer Science & Engineering"},
-      {"focusing", "System Programming, UNIX Development"}};
-  std::vector<std::string> interests = {"Billiards", "Photography"};
-  
-  void say_hi() {
-    std::cout << "Thanks for visiting my GitHub!"
-        "Let's code something amazing together!" << std::endl;
-  }
+    static constexpr std::string_view username = "pp3ng";
+    static constexpr std::string_view name = "Luopeng Zhou";
+    std::map<std::string_view, std::string_view> introduction = {
+        {"learning", "Computer Science & Engineering"},
+        {"focusing", "System Programming, UNIX Development"}
+    };
+    std::vector<std::string_view> interests = {"Billiards", "Photography"};
+    void say_hi() const noexcept {
+        std::cout << std::format(
+            "Thanks for visiting my GitHub!\n"
+            "Let's code something amazing together!\n");
+    }
 };
 
 auto main(void) -> int {
-  std::unique_ptr<Me> me = std::make_unique<Me>();
-  me->say_hi();
-  return EXIT_SUCCESS;
+    std::unique_ptr<Me> me = std::make_unique<Me>();
+    me->say_hi();
+    return EXIT_SUCCESS;
 }
 ```
 
@@ -78,8 +79,8 @@ auto main(void) -> int {
 ## 🌟 Representative Repositories
 
 <div align="center">
-  <a href="https://github.com/Pp3ng/PGS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pp3ng&repo=PGS&theme=vue" alt="PGS Repository" />
+  <a href="https://github.com/Pp3ng/blitz_logger">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pp3ng&repo=blitz_logger&theme=vue" alt="PGS Repository" />
   </a>
   <a href="https://github.com/Pp3ng/webCpp">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pp3ng&repo=webCpp&theme=vue" alt="webCpp Repository" />
@@ -93,8 +94,10 @@ auto main(void) -> int {
 - 🖥️ Customization enthusiast for development environments
 - 📚 Always reading about new technologies and system internals
 - 🎮 Retro gaming and pixel art lover
+- ☕️ Powered by coffee and curiosity
 - 🌱 Constant learner and knowledge sharer
 - 🙆‍♂️ 100+ WPM typer using Vim keybindings!
+- 💭 Dreams in code, debugs in sleep
 
 ---
 
