@@ -32,18 +32,39 @@ class Me final {
 public:
     static constexpr std::string_view username = "pp3ng";
     static constexpr std::string_view name = "Luopeng Zhou";
+    enum class Status { CODING, DEBUGGING, LEARNING, SLEEPING } current_status = Status::CODING;
     std::map<std::string_view, std::string_view> introduction = {
-        {"learning", "Computer Science & Engineering"},
-        {"focusing", "System Programming, UNIX Development"}
-    };
-    std::vector<std::string_view> interests = {"Billiards", "Photography"};
+        {"Learning", "Computer Scinence & Engineering"},
+        {"Hobby", "Billiards"},
+        {"Motto", "Stay hungry, stay foolish"}
+};
     void say_hi() const noexcept {
-        std::cout << std::format(
-            "Hi there! I'm {} ({}).\n"
-            "I'm currently focusing on {}.\n"
-            "Thanks for visiting my GitHub!\n"
-            "Let's code something amazing together!\n",
-            name, username, introduction.at("focusing"));
+        std::cout << std::format(R"(
+    Operator: {} (@{})
+    Current Status: {}
+    Introduction:
+        - Learning: {}
+        - Hobby: {}
+        - Motto: {}
+    Thanks for visiting my GitHub profile!
+    Let's embark on some epic coding adventures together! 💻
+        )",
+            name, username,
+            status_to_string(current_status),
+            introduction.at("Learning"),
+            introduction.at("Hobby"),
+            introduction.at("Motto")
+        );
+    }
+private:
+    static constexpr const char* status_to_string(Status s) {
+        switch(s) {
+            case Status::CODING: return "Crafting Digital Magic ✨";
+            case Status::DEBUGGING: return "Bug Hunting 🐛";
+            case Status::LEARNING: return "Loading Knowledge 📚";
+            case Status::SLEEPING: return "Compiling Dreams 💤";
+        }
+        return "Unknown";
     }
 };
 
