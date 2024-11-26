@@ -39,8 +39,11 @@ public:
     std::vector<std::string_view> interests = {"Billiards", "Photography"};
     void say_hi() const noexcept {
         std::cout << std::format(
+            "Hi there! I'm {} ({}).\n"
+            "I'm currently focusing on {}.\n"
             "Thanks for visiting my GitHub!\n"
-            "Let's code something amazing together!\n");
+            "Let's code something amazing together!\n",
+            name, username, introduction.at("focusing"));
     }
 };
 
