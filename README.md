@@ -68,7 +68,7 @@ private:
     }
 };
 
-auto main(void) -> int {
+auto main() -> int {
     std::unique_ptr<Me> me = std::make_unique<Me>();
     me->say_hi();
     return EXIT_SUCCESS;
