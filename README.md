@@ -112,12 +112,30 @@ auto main() -> int {
 ## 😎 Bits & Bytes of Me
 
 - 🖥️ Customization enthusiast for development environments
+- 🎱 Calculating angles in both code and billiards
 - 📚 Always reading about new technologies and system internals
 - 🎮 Retro gaming and pixel art lover
 - ☕️ Powered by coffee and curiosity
 - 🌱 Constant learner and knowledge sharer
 - 🙆‍♂️ 100+ WPM typer using Vim keybindings!
-- 💭 Dreams in code, debugs in sleep
+
+```bash
+PLAYER: PP3NG
+LEVEL: 25
+CLASS: System Programmer
+
+STATS:
+━━━━━━━━━━━━━━━━━━━━━━━━
+Vim:        [⭐⭐⭐⭐⭐] 95/100
+C/C++:      [⭐⭐⭐⭐ ] 85/100
+Billiards:  [⭐⭐⭐⭐ ] 80/100
+
+ACTIVE BUFFS:
+• Coffee Boost (+20% Coding Speed)
+• Vim Power (+30% Text Editing)
+• Pool Focus (+25% Concentration)
+
+```
 
 ---
 
