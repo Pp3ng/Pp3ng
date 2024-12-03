@@ -84,17 +84,17 @@ auto main() -> int {
 </a>
 
 | Property                     | Data                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-|------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ---------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **️📟 Programming Language** | <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank">![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)</a> <a href="https://isocpp.org/" target="_blank">![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)</a> <a href="https://developer.nvidia.com/cuda-zone" target="_blank">![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)</a> <a href="https://www.python.org/" target="_blank">![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)</a> <a href="https://www.gnu.org/software/bash/" target="_blank">![Shell](https://img.shields.io/badge/-Bash-444444?style=flat&logo=GnuBash)</a> <a href="https://golang.org/" target="_blank"> <a href="https://www.rust-lang.org/" target="_blank">![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)</a> |
-| **🛠️ Tool**                 | <a href="https://www.docker.com/" target="_blank">![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)</a> <a href="https://git-scm.com/" target="_blank">![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)</a> <a href="https://www.vim.org/" target="_blank">![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)</a> <a href="https://github.com/tmux/tmux" target="_blank">![tmux](https://img.shields.io/badge/tmux-1BB91D?style=flat&logo=tmux&logoColor=white)</a>                                                                                                                                                                                                                                                                                                                                                                              |
+| **🛠️ Tool**                  | <a href="https://www.docker.com/" target="_blank">![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)</a> <a href="https://git-scm.com/" target="_blank">![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)</a> <a href="https://www.vim.org/" target="_blank">![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)</a> <a href="https://github.com/tmux/tmux" target="_blank">![tmux](https://img.shields.io/badge/tmux-1BB91D?style=flat&logo=tmux&logoColor=white)</a>                                                                                                                                                                                                                                                                                                                                                                              |
 
 ## 📖 Things I Want to Learn
 
 | Property                  | Data                                                                                                                                                                                                                                                                                                             |
-|---------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **🔐 Network Security**   | <a href="https://www.openssl.org/" target="_blank">![OpenSSL](https://img.shields.io/badge/OpenSSL-FF8C00?style=flat&logo=openssl&logoColor=white)<a href="https://www.wireshark.org/" target="_blank">![Wireshark](https://img.shields.io/badge/Wireshark-1679A8?style=flat&logo=wireshark&logoColor=white)</a> |
 | **📱 Mobile Development** | <a href="https://flutter.dev/" target="_blank">![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)</a> <a href="https://swift.org/" target="_blank">![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)</a>                    |
-| **🖼️ Computer Graphics** | <a href="https://www.opengl.org/" target="_blank">![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?style=flat&logo=opengl)</a>                                                                                                                                                                               |
+| **🖼️ Computer Graphics**  | <a href="https://www.opengl.org/" target="_blank">![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?style=flat&logo=opengl)</a>                                                                                                                                                                               |
 
 ---
 
@@ -122,15 +122,20 @@ auto main() -> int {
 - 🙆‍♂️ 100+ WPM typer using Vim keybindings!
 
 ```bash
-PLAYER: PP3NG
-LEVEL: 25
-CLASS: System Programmer
+PLAYER STATS: PP3NG
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+LEVEL: 21(over 8000 days played)
 
-STATS:
-━━━━━━━━━━━━━━━━━━━━━━━━
-Vim:        [⭐⭐⭐⭐⭐] 95/100
-C/C++:      [⭐⭐⭐⭐ ] 85/100
-Billiards:  [⭐⭐⭐⭐ ] 80/100
+SKILLS:
+Vim Mastery         [████████░░] 80
+C/C++ Proficiency   [███████░░░] 70
+Billiards Skills    [████████░░] 80
+Coffee Drinking     [██████████] 99
+
+ACHIEVEMENTS:
+"Hello World" Master
+Bug Squasher Elite
+Coffee Connoisseur
 
 ACTIVE BUFFS:
 • Coffee Boost (+20% Coding Speed)
@@ -190,7 +195,6 @@ ACTIVE BUFFS:
 
 I'm always open to interesting conversations and collaboration opportunities. Whether you want to discuss a project,
 share ideas, or just chat about technology, feel free to reach out!
-
 
 <div align="center">
   <a href="https://x.com/Pp3ng_" target="_blank" style="margin: 0 10px;">
