@@ -13,7 +13,12 @@
     <img src="https://img.shields.io/github/followers/Pp3ng?label=Followers&style=social" alt="GitHub followers">
   </a>
   <img src="https://img.shields.io/github/stars/Pp3ng?label=Stars&style=social" alt="GitHub User's stars">
+
+  <a href="https://opensource.org/">
+    <img src="https://img.shields.io/badge/Open_Source-❤️-green?logo=open-source-initiative" alt="Open Source Love"/>
+  </a>
 </div>
+
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=&theme=nord&border=true" alt="Random Dev Quote"/>
@@ -84,17 +89,17 @@ auto main() -> int {
 </a>
 
 | Property                     | Data                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| ---------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **️📟 Programming Language** | <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank">![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)</a> <a href="https://isocpp.org/" target="_blank">![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)</a> <a href="https://developer.nvidia.com/cuda-zone" target="_blank">![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)</a> <a href="https://www.python.org/" target="_blank">![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)</a> <a href="https://www.gnu.org/software/bash/" target="_blank">![Shell](https://img.shields.io/badge/-Bash-444444?style=flat&logo=GnuBash)</a> <a href="https://golang.org/" target="_blank"> <a href="https://www.rust-lang.org/" target="_blank">![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)</a> |
-| **🛠️ Tool**                  | <a href="https://www.docker.com/" target="_blank">![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)</a> <a href="https://git-scm.com/" target="_blank">![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)</a> <a href="https://www.vim.org/" target="_blank">![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)</a> <a href="https://github.com/tmux/tmux" target="_blank">![tmux](https://img.shields.io/badge/tmux-1BB91D?style=flat&logo=tmux&logoColor=white)</a>                                                                                                                                                                                                                                                                                                                                                                              |
+| **🛠️ Tool**                 | <a href="https://www.docker.com/" target="_blank">![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)</a> <a href="https://git-scm.com/" target="_blank">![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)</a> <a href="https://www.vim.org/" target="_blank">![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)</a> <a href="https://github.com/tmux/tmux" target="_blank">![tmux](https://img.shields.io/badge/tmux-1BB91D?style=flat&logo=tmux&logoColor=white)</a>                                                                                                                                                                                                                                                                                                                                                                              |
 
 ## 📖 Things I Want to Learn
 
 | Property                  | Data                                                                                                                                                                                                                                                                                                             |
-| ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|---------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **🔐 Network Security**   | <a href="https://www.openssl.org/" target="_blank">![OpenSSL](https://img.shields.io/badge/OpenSSL-FF8C00?style=flat&logo=openssl&logoColor=white)<a href="https://www.wireshark.org/" target="_blank">![Wireshark](https://img.shields.io/badge/Wireshark-1679A8?style=flat&logo=wireshark&logoColor=white)</a> |
 | **📱 Mobile Development** | <a href="https://flutter.dev/" target="_blank">![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)</a> <a href="https://swift.org/" target="_blank">![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)</a>                    |
-| **🖼️ Computer Graphics**  | <a href="https://www.opengl.org/" target="_blank">![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?style=flat&logo=opengl)</a>                                                                                                                                                                               |
+| **🖼️ Computer Graphics** | <a href="https://www.opengl.org/" target="_blank">![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?style=flat&logo=opengl)</a>                                                                                                                                                                               |
 
 ---
 
@@ -108,6 +113,33 @@ auto main() -> int {
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pp3ng&repo=webCpp&theme=vue" alt="webCpp Repository" />
   </a>
 </div>
+
+---
+
+## 🧩 Unix Philosophy: My Coding Manifesto
+
+```bash
+# The Unix Way: Simplicity, Modularity, Clarity
+philosophy() {
+    echo "Do One Thing, Do It Well"
+    echo "Write programs that are simple, clear, and solve specific problems"
+    echo "Compose complex systems from simple, well-designed components"
+    echo "Text is the universal interface"
+}
+
+# Core Principles
+principles=(
+    "Small is beautiful"
+    "Make each program do one thing perfectly"
+    "Build modular, composable tools"
+    "Choose plain text for data representation"
+    "Leverage the power of pipes and filters"
+    "Prioritize developer experience and code readability"
+)
+
+# Unix Wisdom
+wisdom="In the Unix world, elegance is not an option, it's a requirement."
+```
 
 ---
 
