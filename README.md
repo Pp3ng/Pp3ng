@@ -119,15 +119,19 @@ auto main() -> int {
 ## 🧩 Unix Philosophy: My Coding Manifesto
 
 ```bash
-# The Unix Way: Simplicity, Modularity, Clarity
-philosophy() {
-    echo "Do One Thing, Do It Well"
-    echo "Write programs that are simple, clear, and solve specific problems"
-    echo "Compose complex systems from simple, well-designed components"
-    echo "Text is the universal interface"
-}
+declare -A philosophy=(
+    ["focus"]="Do one thing, do it well"
+    ["simplicity"]="Keep it simple, stupid"
+    ["clarity"]="Write programs that are simple, clear, and solve specific problems"
+    ["modularity"]="Compose complex systems from simple, well-designed components"
+    ["universality"]="Text is the universal interface"
+    ["automation"]="Automate repetitive tasks"
+    ["extensibility"]="Design for the future and keep systems open to changes"
+    ["error_handling"]="Fail fast, fail loudly"
+    ["minimalism"]="Avoid unnecessary features and complexity"
+    ["abstraction"]="Everything is a file"
+)
 
-# Core Principles
 principles=(
     "Small is beautiful"
     "Make each program do one thing perfectly"
@@ -137,8 +141,8 @@ principles=(
     "Prioritize developer experience and code readability"
 )
 
-# Unix Wisdom
 wisdom="In the Unix world, elegance is not an option, it's a requirement."
+
 ```
 
 ---
