@@ -4,7 +4,7 @@
 
 <div align="center">
 <p align="center">
-    <a href="https://github.com/Pp3ng"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/Pp3ng"><img src="https://img.shields.io/badge/status-actively_developing-brightgreen.svg"></a>
   <img src="https://komarev.com/ghpvc/?username=pp3ng&label=Profile%20views&color=0e75b6&style=flat" alt="pp3ng" />
 <a href="https://wakatime.com/@018b0b2d-ab3f-4d4d-941c-c52b8275e363"><img src="https://wakatime.com/badge/user/018b0b2d-ab3f-4d4d-941c-c52b8275e363.svg" alt="Total time coded since Oct 8 2023" /></a>
 </p>
@@ -18,7 +18,6 @@
     <img src="https://img.shields.io/badge/Open_Source-❤️-green?logo=open-source-initiative" alt="Open Source Love"/>
   </a>
 </div>
-
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=&theme=nord&border=true" alt="Random Dev Quote"/>
@@ -160,24 +159,17 @@ wisdom="In the Unix world, elegance is not an option, it's a requirement."
 ```bash
 PLAYER STATS: PP3NG
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-LEVEL: 21(over 8000 days played)
-
-SKILLS:
-Vim Mastery         [████████░░] 80
-C/C++ Proficiency   [███████░░░] 70
-Billiards Skills    [████████░░] 80
-Coffee Drinking     [██████████] 99
+LEVEL: 22(over 8000 days played)
 
 ACHIEVEMENTS:
 "Hello World" Master
 Bug Squasher Elite
 Coffee Connoisseur
 
-ACTIVE BUFFS:
-• Coffee Boost (+20% Coding Speed)
-• Vim Power (+30% Text Editing)
-• Pool Focus (+25% Concentration)
-
+PRODUCTIVITY BOOST:
+• Coffee-Powered Coding (+20% Efficiency)
+• Vim Mastery (+30% Text Editing Speed)
+• Deep Focus (+25% Problem Solving)
 ```
 
 ---
@@ -226,10 +218,9 @@ ACTIVE BUFFS:
 
 ---
 
-## 🤝 Let's Connect and Collaborate!
+## 🤝 Connect With Me
 
-I'm always open to interesting conversations and collaboration opportunities. Whether you want to discuss a project,
-share ideas, or just chat about technology, feel free to reach out!
+I'm always interested in collaborating on innovative projects and discussing technology. Whether you have a project idea, technical question, or just want to chat about something cool, feel free to reach out to me!
 
 <div align="center">
   <a href="https://x.com/Pp3ng_" target="_blank" style="margin: 0 10px;">
