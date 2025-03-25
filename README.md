@@ -87,10 +87,11 @@ auto main() -> int {
   <img src="https://pp3ng.github.io/photos/hhkb.png" alt="Programming GIF">
 </a>
 
-| Property                     | Data                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-|------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **️📟 Programming Language** | <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank">![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)</a> <a href="https://isocpp.org/" target="_blank">![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)</a> <a href="https://developer.nvidia.com/cuda-zone" target="_blank">![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)</a> <a href="https://www.python.org/" target="_blank">![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)</a> <a href="https://www.gnu.org/software/bash/" target="_blank">![Shell](https://img.shields.io/badge/-Bash-444444?style=flat&logo=GnuBash)</a> <a href="https://golang.org/" target="_blank"> <a href="https://www.rust-lang.org/" target="_blank">![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)</a> |
-| **🛠️ Tool**                 | <a href="https://www.docker.com/" target="_blank">![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)</a> <a href="https://git-scm.com/" target="_blank">![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)</a> <a href="https://www.vim.org/" target="_blank">![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)</a> <a href="https://github.com/tmux/tmux" target="_blank">![tmux](https://img.shields.io/badge/tmux-1BB91D?style=flat&logo=tmux&logoColor=white)</a>                                                                                                                                                                                                                                                                                                                                                                              |
+| Property                         | Data                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **️📟 Programming Language**     | <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank">![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)</a> <a href="https://isocpp.org/" target="_blank">![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)</a> <a href="https://developer.nvidia.com/cuda-zone" target="_blank">![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)</a> <a href="https://www.gnu.org/software/bash/" target="_blank">![Shell](https://img.shields.io/badge/-Bash-444444?style=flat&logo=GnuBash)<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)</a> <a href="https://www.rust-lang.org/" target="_blank">![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)</a> |
+| **🛠️ Operating Systems & Tool** | </a> <a href="https://www.kernel.org/" target="_blank">![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)</a> <a href="https://www.apple.com/macos/" target="_blank">![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)</a> <a href="https://www.docker.com/" target="_blank">![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)</a> <a href="https://git-scm.com/" target="_blank">![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)</a> <a href="https://www.vim.org/" target="_blank">![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)</a> <a href="https://github.com/tmux/tmux" target="_blank">![tmux](https://img.shields.io/badge/tmux-1BB91D?style=flat&logo=tmux&logoColor=white)</a>                                                            |
+| **🌐 Web Development**           | </a> <a href="https://www.nginx.com/" target="_blank">![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)</a> <a href="https://jquery.com/" target="_blank">![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)</a> <a href="https://www.nodejs.org/" target="_blank">![Node.js](https://img.shields.io/badge/Node.js-8CC84B?style=flat&logo=node.js&logoColor=white)</a> <a href="https://www.reactjs.org/" target="_blank">![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)</a> <a href="https://vuejs.org/" target="_blank">![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=flat&logo=vue.js&logoColor=white)</a>                                                                                                                                                                                                 |
 
 ## 📖 Things I Want to Learn
 
@@ -112,37 +113,6 @@ auto main() -> int {
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pp3ng&repo=webCpp&theme=vue" alt="webCpp Repository" />
   </a>
 </div>
-
----
-
-## 🧩 Unix Philosophy: My Coding Manifesto
-
-```bash
-declare -A philosophy=(
-    ["focus"]="Do one thing, do it well"
-    ["simplicity"]="Keep it simple, stupid"
-    ["clarity"]="Write programs that are simple, clear, and solve specific problems"
-    ["modularity"]="Compose complex systems from simple, well-designed components"
-    ["universality"]="Text is the universal interface"
-    ["automation"]="Automate repetitive tasks"
-    ["extensibility"]="Design for the future and keep systems open to changes"
-    ["error_handling"]="Fail fast, fail loudly"
-    ["minimalism"]="Avoid unnecessary features and complexity"
-    ["abstraction"]="Everything is a file"
-)
-
-principles=(
-    "Small is beautiful"
-    "Make each program do one thing perfectly"
-    "Build modular, composable tools"
-    "Choose plain text for data representation"
-    "Leverage the power of pipes and filters"
-    "Prioritize developer experience and code readability"
-)
-
-wisdom="In the Unix world, elegance is not an option, it's a requirement."
-
-```
 
 ---
 
@@ -220,7 +190,8 @@ PRODUCTIVITY BOOST:
 
 ## 🤝 Connect With Me
 
-I'm always interested in collaborating on innovative projects and discussing technology. Whether you have a project idea, technical question, or just want to chat about something cool, feel free to reach out to me!
+I'm always interested in collaborating on innovative projects and discussing technology. Whether you have a project
+idea, technical question, or just want to chat about something cool, feel free to reach out to me!
 
 <div align="center">
   <a href="https://x.com/Pp3ng_" target="_blank" style="margin: 0 10px;">
