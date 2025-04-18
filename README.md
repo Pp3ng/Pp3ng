@@ -81,10 +81,38 @@ auto main() -> int {
 
 ---
 
+## 😎 Bits & Bytes of Me
+
+- 🖥️ Customization enthusiast for development environments
+- 🎱 Calculating angles in both code and billiards
+- 📚 Always reading about new technologies and system internals
+- 🎮 Retro gaming and pixel art lover
+- ☕️ Powered by coffee and curiosity
+- 🌱 Constant learner and knowledge sharer
+- 🙆‍♂️ 100+ WPM typer using Vim keybindings!
+
+```bash
+PLAYER STATS: PP3NG
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+LEVEL: 23(over 8000 days played)
+
+ACHIEVEMENTS:
+"Hello World" Master
+Bug Squasher Elite
+Coffee Connoisseur
+
+PRODUCTIVITY BOOST:
+• Coffee-Powered Coding (+20% Efficiency)
+• Vim Mastery (+30% Text Editing Speed)
+• Deep Focus (+25% Problem Solving)
+```
+
+---
+
 ## ⌨️ Things I code with
 
 <a href="https://happyhackingkb.com/" target="_blank">
-  <img src="https://pp3ng.github.io/photos/hhkb.png" alt="Programming GIF">
+  <img src="https://pp3ng.github.io/photos/hhkb.png"  width="500" alt="HHKB Keyboard">
 </a>
 
 | Property                     | Data                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
@@ -114,34 +142,6 @@ auto main() -> int {
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pp3ng&repo=webCpp&theme=vue" alt="webCpp Repository" />
   </a>
 </div>
-
----
-
-## 😎 Bits & Bytes of Me
-
-- 🖥️ Customization enthusiast for development environments
-- 🎱 Calculating angles in both code and billiards
-- 📚 Always reading about new technologies and system internals
-- 🎮 Retro gaming and pixel art lover
-- ☕️ Powered by coffee and curiosity
-- 🌱 Constant learner and knowledge sharer
-- 🙆‍♂️ 100+ WPM typer using Vim keybindings!
-
-```bash
-PLAYER STATS: PP3NG
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-LEVEL: 22(over 8000 days played)
-
-ACHIEVEMENTS:
-"Hello World" Master
-Bug Squasher Elite
-Coffee Connoisseur
-
-PRODUCTIVITY BOOST:
-• Coffee-Powered Coding (+20% Efficiency)
-• Vim Mastery (+30% Text Editing Speed)
-• Deep Focus (+25% Problem Solving)
-```
 
 ---
 
