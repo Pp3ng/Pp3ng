@@ -29,54 +29,42 @@
 
 ---
 
-## 🎯 Overview
+## 🎯 Who am I ?
 
 ```cpp
+namespace pp3ng {
+
 class Me final {
 public:
-    static constexpr std::string_view username = "pp3ng";
-    static constexpr std::string_view name = "Luopeng Zhou";
-    enum class Status { CODING, DEBUGGING, LEARNING, SLEEPING } current_status = Status::CODING;
-    std::map<std::string_view, std::string_view> introduction = {
-        {"Learning", "Computer Science & Engineering"},
-        {"Hobby", "Billiards"},
-        {"Motto", "Stay hungry, stay foolish"}
-    };
+  static constexpr std::string_view username = "pp3ng";
+  static constexpr std::string_view name = "Penn.L.Zhou";
 
-    void say_hi() const noexcept {
-        std::cout << std::format(R"(
-    Operator: {} (@{})
-    Current Status: {}
-    Introduction:
-        - Learning: {}
-        - Hobby: {}
-        - Motto: {}
-    Thanks for visiting my GitHub profile!
-    Let's embark on some epic coding adventures together! 💻
-        )",
-            name, username,
-            status_to_string(current_status),
-            introduction.at("Learning"),
-            introduction.at("Hobby"),
-            introduction.at("Motto")
-        );
+  std::vector<std::pair<std::string_view, std::string_view>> introduction = {
+      {"Learning", "Computer Science & Engineering"},
+      {"Hobby", "Billiards"},
+      {"Motto", "Stay hungry, stay foolish"}};
+
+  void say_hi() const noexcept {
+    std::cout << std::format(R"(
+👨‍💻 DEVELOPER PROFILE 👨‍💻
+Operator: {} (@{})
+Introduction:
+)",
+                             name, username);
+    for (const auto &[key, value] : introduction) {
+      std::cout << std::format("  - {}: {}\n", key, value);
     }
-private:
-    static constexpr const char* status_to_string(Status s) {
-        switch(s) {
-            case Status::CODING: return "Crafting Digital Magic ✨";
-            case Status::DEBUGGING: return "Bug Hunting 🐛";
-            case Status::LEARNING: return "Loading Knowledge 📚";
-            case Status::SLEEPING: return "Compiling Dreams 💤";
-        }
-        return "Unknown";
-    }
+    std::cout << R"(Thanks for visiting my GitHub profile!
+Let's embark on some epic coding adventures!
+)";
+  }
 };
+}
 
-auto main() -> int {
-    std::unique_ptr<Me> me = std::make_unique<Me>();
-    me->say_hi();
-    return EXIT_SUCCESS;
+auto main(void) -> int {
+  std::unique_ptr<pp3ng::Me> me = std::make_unique<pp3ng::Me>();
+  me->say_hi();
+  return EXIT_SUCCESS;
 }
 ```
 
@@ -85,7 +73,7 @@ auto main() -> int {
 ## 😎 Bits & Bytes of Me
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" style="width:50%" />
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width=40%>
 </div>
 
 - 🖥️ Enthusiast of customizing development environments
@@ -127,12 +115,17 @@ auto main() -> int {
   <a href="https://github.com/Pp3ng/blitz_logger">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pp3ng&repo=blitz_logger&theme=vue" alt="PGS Repository" />
   </a>
+
   <a href="https://github.com/Pp3ng/webCpp">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pp3ng&repo=webCpp&theme=vue" alt="webCpp Repository" />
   </a>
 </div>
 
 # 📈 Statistics
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" style="width:50%" />
+  </div>
 
 <div align="center">
   
