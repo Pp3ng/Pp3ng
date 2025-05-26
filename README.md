@@ -17,6 +17,10 @@
   <a href="https://opensource.org/">
     <img src="https://img.shields.io/badge/Open_Source-❤️-green?logo=open-source-initiative" alt="Open Source Love"/>
   </a>
+
+  <a href="https://monkeytype.com/profile/pp3ng" target="_blank">
+  <img src="https://img.shields.io/badge/⌨️_Average_WPM-80+-brightgreen?&logo=keyboard&logoColor=white" alt="Typing Speed"/>
+  </a>
 </div>
 
 <div align="center">
@@ -119,11 +123,11 @@ auto main(void) -> int {
 
 <div align="center">
   <a href="https://github.com/Pp3ng/blitz_logger">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pp3ng&repo=blitz_logger&theme=vue" alt="PGS Repository" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pp3ng&repo=blitz_logger&theme=vue"/>
   </a>
 
   <a href="https://github.com/Pp3ng/webCpp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pp3ng&repo=webCpp&theme=vue" alt="webCpp Repository" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pp3ng&repo=webCpp&theme=vue"/>
   </a>
 </div>
 
@@ -151,7 +155,7 @@ auto main(void) -> int {
     <img width="60%" src="https://github-profile-trophy.vercel.app/?username=pp3ng&theme=vue&column=4&margin-w=15&margin-h=15" alt="pp3ng" />
   </a>
 
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Pp3nG&layout=compact&theme=vue&langs_count=8&hide=other,text" alt="Pp3nG's WakaTime stats"/>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Pp3nG&layout=compact&theme=vue&langs_count=8&hide=other,text&custom_title=Spent%20My%20Time%20On" alt="Pp3nG's WakaTime stats"/>
   
 </div>
 
@@ -200,5 +204,7 @@ Got a project idea, technical question, or just want to talk code (or billiards)
   </a>
 </div>
 <p align="center">
+
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="300"/>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gray&section=footer&reversal=false&textBg=false">
 </p>
