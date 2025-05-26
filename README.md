@@ -24,13 +24,19 @@
 </div>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=&theme=nord&border=true" alt="Random Dev Quote"/>
-</div>
+
+  <blockquote>
+    <b><span style="color:#FFA500">“Stay hungry, stay foolish.”</span></b><br>
+    <sub>— Steve Jobs, 2005 Stanford Commencement Address</sub>
+  </blockquote>
+  
+  <sup><i>A tribute to the geek spirit that changes the world.</i></sup>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6495ED&center=true&vCenter=true&width=600&lines=Welcome+to+my+coding+universe!;C%2FC%2B%2B+%26+Unix+Enthusiast;Always+Learning+New+Things;Low-Level+Programming+Wizard" alt="Typing SVG" />
 </div>
 
+</div>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=5F9EA0&height=3&section=header" width="100%">
 </p>
@@ -176,11 +182,19 @@ auto main(void) -> int {
 ## 💭 Quote of the Day
 
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=vue" alt="Jokes Card" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=&theme=nord&border=true" alt="Random Dev Quote"/>
 </div>
 
 <div align="center">
   <i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i>
+</div>
+
+---
+
+## 😂 Just for Laughs
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=vue" alt="Jokes Card" />
 </div>
 
 <p align="center">
