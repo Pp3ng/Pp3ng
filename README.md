@@ -4,9 +4,11 @@
 
 <div align="center">
   <p align="center">
-    <a href="https://github.com/Pp3ng"><img src="https://img.shields.io/badge/status-actively_developing-brightgreen.svg"></a>
     <img src="https://komarev.com/ghpvc/?username=pp3ng&label=Profile%20views&color=0e75b6&style=flat" alt="pp3ng" />
     <a href="https://wakatime.com/@018b0b2d-ab3f-4d4d-941c-c52b8275e363"><img src="https://wakatime.com/badge/user/018b0b2d-ab3f-4d4d-941c-c52b8275e363.svg" alt="Total time coded since Oct 8 2023" /></a>
+  <a href="https://monkeytype.com/profile/pp3ng" target="_blank">
+  <img src="https://img.shields.io/badge/⌨️_Average_WPM-80+-brightgreen?&logo=keyboard&logoColor=white" alt="Typing Speed"/>
+  </a>
   </p>
 
   <a href="https://github.com/Pp3ng?tab=followers">
@@ -14,13 +16,6 @@
   </a>
   <img src="https://img.shields.io/github/stars/Pp3ng?label=Stars&style=social" alt="GitHub User's stars">
 
-  <a href="https://opensource.org/">
-    <img src="https://img.shields.io/badge/Open_Source-❤️-green?logo=open-source-initiative" alt="Open Source Love"/>
-  </a>
-
-  <a href="https://monkeytype.com/profile/pp3ng" target="_blank">
-  <img src="https://img.shields.io/badge/⌨️_Average_WPM-80+-brightgreen?&logo=keyboard&logoColor=white" alt="Typing Speed"/>
-  </a>
 </div>
 
 <div align="center">
@@ -29,14 +24,10 @@
     <b><span style="color:#FFA500">“Stay hungry, stay foolish.”</span></b><br>
     <sub>— Steve Jobs, 2005 Stanford Commencement Address</sub>
   </blockquote>
-  
   <sup><i>A tribute to the geek spirit that changes the world.</i></sup>
+ </div>
 
-<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6495ED&center=true&vCenter=true&width=600&lines=Welcome+to+my+coding+universe!;C%2FC%2B%2B+%26+Unix+Enthusiast;Always+Learning+New+Things;Low-Level+Programming+Wizard" alt="Typing SVG" />
-</div>
-
-</div>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=5F9EA0&height=3&section=header" width="100%">
 </p>
@@ -82,10 +73,6 @@ auto main(void) -> int {
 
 ## 😎 Bits & Bytes of Me
 
-<div align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width=40%>
-</div>
-
 - 🖥️ Enthusiast of customizing development environments
 - 🎱 Calculating angles in both code and billiards
 - 📚 Always exploring new technologies and system internals
@@ -101,7 +88,7 @@ auto main(void) -> int {
 ## ⌨️ Things I Code With
 
 <a href="https://happyhackingkb.com/" target="_blank">
-  <img src="https://pp3ng.github.io/photos/hhkb.png"  width=75% alt="HHKB Keyboard">
+  <img src="https://pp3ng.github.io/photos/hhkb.png"  width=50%">
 </a>
 
 | Property                     | Data                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
