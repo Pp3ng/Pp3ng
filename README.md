@@ -19,6 +19,13 @@
 </div>
 
 <div align="center">
+  <br>
+  <i>"Your time is limited, so don't waste it living someone else's life."</i>
+  <br>
+  <sub>— Steve Jobs</sub>
+  <br>
+</div>
+<div align="center">
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6495ED&center=true&vCenter=true&width=600&lines=Welcome+to+my+coding+universe!;C%2FC%2B%2B+%26+Unix+Enthusiast;Always+Learning+New+Things;" alt="Typing SVG" />
 
@@ -87,7 +94,6 @@ auto main(void) -> int {
 | ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **📱 Mobile Development** | <a href="https://flutter.dev/" target="_blank">![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)</a> <a href="https://developer.apple.com/swift/" target="_blank">![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)</a> <a href="https://kotlinlang.org/" target="_blank">![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)</a>              |
 | **🖼️ Computer Graphics**  | <a href="https://www.opengl.org/" target="_blank">![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=opengl&logoColor=white)</a> <a href="https://www.khronos.org/vulkan/" target="_blank">![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=flat&logo=vulkan&logoColor=white)</a>                                                                                                                                                                 |
-| **🧠 Machine Learning**   | <a href="https://pytorch.org/" target="_blank">![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)</a> <a href="https://www.tensorflow.org/" target="_blank">![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)</a>                                                                                                                                                         |
 | **🧰 System Design**      | <a href="https://kubernetes.io/" target="_blank">![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)</a> <a href="https://www.terraform.io/" target="_blank">![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)</a> <a href="https://www.consul.io/" target="_blank">![Consul](https://img.shields.io/badge/Consul-F24C53?style=flat&logo=consul&logoColor=white)</a> |
 
 <p align="center">
@@ -186,6 +192,7 @@ Got a project idea, technical question, or just want to talk code (or billiards)
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
+
 <p align="center">
 
   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="300"/>
