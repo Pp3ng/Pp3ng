@@ -25,9 +25,10 @@
     <sub>— Steve Jobs, 2005 Stanford Commencement Address</sub>
   </blockquote>
   <sup><i>A tribute to the geek spirit that changes the world.</i></sup>
- </div>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6495ED&center=true&vCenter=true&width=600&lines=Welcome+to+my+coding+universe!;C%2FC%2B%2B+%26+Unix+Enthusiast;Always+Learning+New+Things;Low-Level+Programming+Wizard" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6495ED&center=true&vCenter=true&width=600&lines=Welcome+to+my+coding+universe!;C%2FC%2B%2B+%26+Unix+Enthusiast;Always+Learning+New+Things;" alt="Typing SVG" />
+
+ </div>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=5F9EA0&height=3&section=header" width="100%">
 </p>
@@ -70,20 +71,6 @@ auto main(void) -> int {
   return EXIT_SUCCESS;
 }
 ```
-
-## 😎 Bits & Bytes of Me
-
-- 🖥️ Enthusiast of customizing development environments
-- 🎱 Calculating angles in both code and billiards
-- 📚 Always exploring new technologies and system internals
-- 🎮 Retro gaming and pixel art aficionado
-- ☕️ Fueled by coffee and curiosity
-- 🌱 Lifelong learner and knowledge sharer
-- 🙆‍♂️ 80+ WPM typist with Vim muscle memory
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=9370DB&height=3&section=header" width="100%">
-</p>
 
 ## ⌨️ Things I Code With
 
