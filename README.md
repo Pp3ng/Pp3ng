@@ -48,6 +48,7 @@ public:
   std::vector<std::pair<std::string_view, std::string_view>> introduction = {
       {"Learning", "Computer Science & Engineering"},
       {"Hobby", "Billiards"},
+      {"Favorite Game", "PUBG"},
       {"Motto", "Stay hungry, stay foolish"}};
 
   void say_hi() const noexcept {
@@ -157,7 +158,7 @@ auto main(void) -> int {
 ## 💭 Quote of the Day
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=&theme=nord&border=true" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=&theme=vue" alt="Random Dev Quote"/>
 </div>
 
 <div align="center">
@@ -178,8 +179,9 @@ auto main(void) -> int {
 
 ## 📬 Get in Touch
 
-I'm always open to collaborating on **innovative projects** and chatting about **tech**.  
-Got a project idea, technical question, or just want to talk code (or billiards)? Let’s connect!
+I'm always open to connecting, collaborating, or just having a great conversation—whether it's about tech, coding, or billiards!
+
+If you have an exciting project idea, a technical question, or simply want to chat about life, feel free to reach out. Let's build something amazing together or just enjoy a friendly talk!
 
 <div align="center">
   <a href="https://x.com/Pp3ng_" target="_blank" style="margin: 0 10px;">
