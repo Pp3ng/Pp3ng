@@ -207,6 +207,13 @@ auto main(void) -> int {
   <br><br>
 </div>
 
+### 🐱 Cat of the Day
+
+<div align="center">
+<img src="https://cataas.com/cat/cute" width="300" alt="Cat API"/>
+
+</div>
+
 ## 😂 Developer Humor
 
 <div align="center">
