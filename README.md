@@ -130,8 +130,17 @@ auto main(void) -> int {
   <a href="https://github.com/Pp3ng/blitz_logger">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pp3ng&repo=blitz_logger&theme=vue"/>
   </a>
+
   <a href="https://github.com/Pp3ng/webCpp">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pp3ng&repo=webCpp&theme=vue"/>
+  </a>
+
+  <a href="https://github.com/Pp3ng/ChaCha20">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pp3ng&repo=Chacha20&theme=vue"/>
+  </a>
+
+  <a href="https://github.com/Pp3ng/AVL">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pp3ng&repo=AVL&theme=vue"/>
   </a>
 </div>
 
