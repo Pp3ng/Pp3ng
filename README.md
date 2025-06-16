@@ -198,37 +198,44 @@ auto main(void) -> int {
   <img src="https://capsule-render.vercel.app/api?type=rect&color=32CD32&height=3&section=header" width="100%">
 </p>
 
-## 💭 Daily Inspiration
+## 💭 Daily Inspiration & Motivation
 
 <div align="center">
   
-  <!-- Dev Quote -->
-  <img src="https://quotes-github-readme.vercel.app/api?&theme=vue" alt="Random Dev Quote"/>
+  <!-- Enhanced Dev Quote Section -->
+  <div>
+    <h3>🎯 Developer Wisdom</h3>
+    <img src="https://quotes-github-readme.vercel.app/api?&theme=vue" alt="Random Dev Quote"/>
+  </div>
 
-  <!-- Motivational Quote API -->
-  <img src="https://zenquotes.io/api/image" width="400" alt="Daily Motivation"/>
-  
-</div>
-
-<div align="center">
   <br>
-  <i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i>
-  <br><br>
-</div>
 
-### 🐱 Cat of the Day
-
-<div align="center">
-<img src="https://cataas.com/cat/cute" width="300" alt="Cat API"/>
+  <!-- Motivational Content -->
+  <div>
+    <h3>✨ Daily Motivation</h3>
+    <img src="https://zenquotes.io/api/image" width="400" alt="Daily Motivation"/>
+  </div>
 
 </div>
 
-## 😂 Developer Humor
+<!-- Fun Section -->
+
+### 🎲 Random Fun Stuff
 
 <div align="center">
-  
-  <!-- Programming Jokes -->
-  <img src="https://readme-jokes.vercel.app/api?theme=vue" alt="Programming Jokes" />
+
+  <!-- Cat of the Day -->
+  <div>
+    <h4>🐱 Cat of the Day</h4>
+    <img src="https://cataas.com/cat/cute" width="300" alt="Random Cat"/>
+    <p><em>Because every developer needs a cute cat break! 😸</em></p>
+  </div>
+
+  <!-- Programming Humor -->
+  <div>
+    <h4>😂 Developer Humor</h4>
+    <img src="https://readme-jokes.vercel.app/api?theme=vue" alt="Programming Jokes" />
+  </div>
 </div>
 
 <!-- Divider -->
