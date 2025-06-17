@@ -226,14 +226,14 @@ auto main(void) -> int {
 
   <!-- Cat of the Day -->
   <div>
-    <h4>🐱 Cat of the Day</h4>
+    <h3>🐱 Cat of the Day</h3>
     <img src="https://cataas.com/cat/cute" width="300" alt="Random Cat"/>
     <p><em>Because every developer needs a cute cat break! 😸</em></p>
   </div>
 
   <!-- Programming Humor -->
   <div>
-    <h4>😂 Developer Humor</h4>
+    <h5>😂 Developer Humor</h3>
     <img src="https://readme-jokes.vercel.app/api?theme=vue" alt="Programming Jokes" />
   </div>
 </div>
@@ -248,10 +248,8 @@ auto main(void) -> int {
 I'm always excited to connect with fellow developers, tech enthusiasts, or anyone interested in meaningful conversations! Whether you want to:
 
 - 💡 **Collaborate** on exciting projects
-- 🤔 **Discuss** programming concepts or tech trends
-- 🎯 **Share** ideas about system design or development
+- 🤔 **Discuss** anything about Computer Science & Engineering
 - 🎱 **Chat** about billiards or gaming (PUBG anyone?)
-- 🌟 **Network** and build lasting connections
 
 Feel free to reach out through any of these platforms:( **English** or **Chinese** is fine! )
 
@@ -268,12 +266,6 @@ Feel free to reach out through any of these platforms:( **English** or **Chinese
   <a href="mailto:pp3ng@outlook.com">
     <img src="https://img.shields.io/badge/Email-D14836?&logo=gmail&logoColor=white" alt="Email">
   </a>
-</div>
-
-<div align="center">
-  <br>
-  <i>Let's build something amazing together! 🚀</i>
-  <br><br>
 </div>
 
 <!-- Footer -->
