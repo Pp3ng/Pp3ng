@@ -135,8 +135,8 @@ auto main(void) -> int {
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pp3ng&repo=webCpp&theme=vue"/>
   </a>
 
-  <a href="https://github.com/Pp3ng/ChaCha20">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pp3ng&repo=Chacha20&theme=vue"/>
+  <a href="https://github.com/Pp3ng/ChaCha20-Poly1305-AEAD">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pp3ng&repo=Chacha20-Poly1305-AEAD&theme=vue"/>
   </a>
 
   <a href="https://github.com/Pp3ng/AVL">
@@ -251,7 +251,7 @@ I'm always excited to connect with fellow developers, tech enthusiasts, or anyon
 - 🤔 **Discuss** anything about Computer Science & Engineering
 - 🎱 **Chat** about billiards or gaming (PUBG anyone?)
 
-Feel free to reach out through any of these platforms:( **English** or **Chinese** is fine! )
+Feel free to reach out through any of these platforms: (**English** or **Chinese** is fine!)
 
 <div align="center">
   <a href="https://steamcommunity.com/profiles/76561199366436148/" target="_blank">
