@@ -29,15 +29,6 @@
     <img src="https://img.shields.io/badge/💻_Status-Coding%20%26%20Learning-green?style=flat&logo=code" alt="Current Status" />
   </p>
 
-  <!-- Quote Section -->
-  <div>
-    <br>
-    <i>"Your time is limited, so don't waste it living someone else's life."</i>
-    <br>
-    <sub>— Steve Jobs</sub>
-    <br><br>
-  </div>
-
   <!-- Typing Animation -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6495ED&center=true&vCenter=true&width=600&lines=Welcome+to+my+coding+universe!;C%2FC%2B%2B+%26+Unix+Enthusiast;Always+Learning+New+Things;" alt="Typing SVG" />
 
