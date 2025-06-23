@@ -11,7 +11,7 @@
       <img src="https://wakatime.com/badge/user/018b0b2d-ab3f-4d4d-941c-c52b8275e363.svg" alt="Total time coded since Oct 8 2023" />
     </a>
     <a href="https://monkeytype.com/profile/pp3ng" target="_blank">
-      <img src="https://img.shields.io/badge/⌨️_Average_WPM-80+-brightgreen?&logo=keyboard&logoColor=white" alt="Typing Speed"/>
+      <img src="https://img.shields.io/badge/⌨️_Average_WPM-90+-brightgreen?&logo=keyboard&logoColor=white" alt="Typing Speed"/>
     </a>
   </p>
 
@@ -211,23 +211,12 @@ auto main(void) -> int {
 
 <!-- Fun Section -->
 
-### 🎲 Random Fun Stuff
-
-<div align="center">
-
-  <!-- Cat of the Day -->
-  <div>
-    <h3>🐱 Cat of the Day</h3>
-    <img src="https://cataas.com/cat/cute" width="300" alt="Random Cat"/>
-    <p><em>Because every developer needs a cute cat break! 😸</em></p>
-  </div>
+### 🎲 Random Fun
 
   <!-- Programming Humor -->
-  <div>
-    <h5>😂 Developer Humor</h3>
+  <div align="center">
     <img src="https://readme-jokes.vercel.app/api?theme=vue" alt="Programming Jokes" />
   </div>
-</div>
 
 <!-- Divider -->
 <p align="center">
