@@ -149,18 +149,11 @@ auto main(void) -> int {
   
   <!-- GitHub Stats Cards -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pp3ng&show_icons=true&theme=vue&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pp3ng&layout=compact&langs_count=6&theme=vue&text_bold=true" alt="Top Languages"/>
   
   <!-- Streak Stats -->
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=pp3ng&theme=vue" alt="GitHub Streak" />
-  
-  <!-- Activity Graph -->
-  <img width="50%" src="https://github-readme-activity-graph.vercel.app/graph?username=Pp3ng&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
-  
-  <!-- Trophies -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="60%" src="https://github-profile-trophy.vercel.app/?username=pp3ng&theme=vue&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=pp3ng&theme=vue" alt="GitHub Streak" />
 
   <!-- WakaTime Stats -->
   <img width="60%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Pp3nG&layout=compact&theme=vue&langs_count=8&hide=other,text&custom_title=Spent%20My%20Time%20On" alt="WakaTime Stats"/>
@@ -192,7 +185,6 @@ auto main(void) -> int {
 
 <div align="center">
   
-  <!-- Enhanced Dev Quote Section -->
   <div>
     <h3>🎯 Developer Wisdom</h3>
     <img src="https://quotes-github-readme.vercel.app/api?&theme=vue" alt="Random Dev Quote"/>
@@ -207,8 +199,6 @@ auto main(void) -> int {
   </div>
 
 </div>
-
-<!-- Fun Section -->
 
 ### 🎲 Random Fun
 
