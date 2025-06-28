@@ -214,7 +214,7 @@ auto main(void) -> int {
 
 ## 📬 Connect With Me
 
-I'm always excited to connect with fellow developers, tech enthusiasts, or anyone interested in meaningful conversations! Whether you want to:
+I'm always excited to connect with others and have meaningful conversations. Whether you want to:
 
 - 💡 **Collaborate** on exciting projects
 - 🤔 **Discuss** anything
