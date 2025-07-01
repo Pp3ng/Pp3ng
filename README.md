@@ -29,7 +29,7 @@
   </p>
 
   <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6495ED&center=true&vCenter=true&width=600&lines=Welcome+to+my+coding+universe!;C%2FC%2B%2B+%26+Unix+Enthusiast;Always+Learning+New+Things;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6495ED&center=true&vCenter=true&width=600&lines=Welcome+to+my+coding+universe!;Low+Level+%26+Unix+Enthusiast;Always+Learning+New+Things!;" alt="Typing SVG" />
 
 </div>
 
@@ -56,7 +56,7 @@ public:
 
   void say_hi() const noexcept {
     std::cout << std::format(R"(
-👨‍💻 DEVELOPER PROFILE 👨‍💻
+👨‍💻 PROFILE 👨‍💻
 Operator: {} (@{})
 Introduction:
 )",
