@@ -186,7 +186,7 @@ auto main(void) -> int {
 <div align="center">
   
   <div>
-    <h3>🎯 Developer Wisdom</h3>
+    <h3>Developer Wisdom</h3>
     <img src="https://quotes-github-readme.vercel.app/api?&theme=vue" alt="Random Dev Quote"/>
   </div>
 
@@ -194,7 +194,7 @@ auto main(void) -> int {
 
   <!-- Motivational Content -->
   <div>
-    <h3>✨ Daily Motivation</h3>
+    <h3>Daily Motivation</h3>
     <img src="https://zenquotes.io/api/image" width="400" alt="Daily Motivation"/>
   </div>
 
